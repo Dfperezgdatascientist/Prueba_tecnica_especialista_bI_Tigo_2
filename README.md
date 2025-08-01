@@ -55,7 +55,11 @@ Se simularán diferentes orígenes de datos para el ejercicio, como:
 *	Script Python con la ETL y documentación (`Prueba_Tecnica_Especialista_BI.ipynb`,`etl_contactabilidad.py`).
 *	Dataset final consolidado y limpio (`funnel_consolidado.csv`).
 *	Dashboard o visualización con análisis (`Informe_analisis_funnel_de_conversion.pbix`).
-*	Informe ejecutivo o presentación con análisis y recomendaciones (`reporte_gerencial.pptx`).
+*	Informe ejecutivo o presentación con análisis y recomendaciones (`reporte_gerencial.pdf`).
+
+<br>
+
+![dashboard](dashboard.png)
 
 
 **Parte 3 – Uso SQL**
